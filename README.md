@@ -17,7 +17,6 @@
 </div><br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elinaldo1&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elinaldo1&hide=java,Starlark,Objective-c,Ruby)](https://github.com/Elinaldo1/github-readme-stats)
 
 Apaixonado por tecnologia.
 
