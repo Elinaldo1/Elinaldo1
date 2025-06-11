@@ -17,8 +17,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elinaldo1&show_icons=true&theme=dracula)
 
-Apaixonado por tecnologia.
-
-Me divirto programando, estou a estudar e praticar em busca de aperfeiçoamento contínuo, pois através da tecnologia evoluirei para melhor a cada dia, minha vida pessoal e profissional e das pessoas, do mundo à minha volta.
+Estou a estudar e praticar em busca de aperfeiçoamento contínuo, busco através da tecnologia evoluir para melhor a cada dia, minha vida pessoal e profissional e das pessoas, do mundo à minha volta.
 
 Code com capricho, desafie-se e evolua.
