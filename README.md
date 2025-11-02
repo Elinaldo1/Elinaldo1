@@ -15,7 +15,7 @@
     <img align = 'center' alt = "REACT NATIVE" src = 'https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAF'/>
 </div><br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elinaldo1&show_icons=true&theme=dracula)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elinaldo1&show_icons=true&theme=dracula)-->
 
 Estou a estudar e praticar em busca de aperfeiçoamento contínuo, busco através da tecnologia evoluir para melhor a cada dia, minha vida pessoal e profissional e das pessoas, do mundo à minha volta.
 
